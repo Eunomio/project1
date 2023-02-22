@@ -1,7 +1,3 @@
-<?php
-    include("auth.php"); //include auth.php file on all secure pages
-?>
-
 <!-- Author: CST1909170 Zhao Xi  -->
 <!DOCTYPE html>
 <html>
